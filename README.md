@@ -1,1 +1,1 @@
-# Study_pygame
+# pygame学习的小练习
